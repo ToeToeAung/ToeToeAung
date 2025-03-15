@@ -2,5 +2,6 @@ I am a senior .Net developer with over 10 years of professional experience devel
 
 Tech Stack
 
-Backend: ASP.NET Core using C#, ExpressJS
+Backend: ASP.NET Core using C#,ExpressJS,MSSQL,MySQL,Microservices
+
 Frontend: ReactJS
